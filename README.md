@@ -13,7 +13,7 @@ Librării și surse 3rd-party:
 - I2Cdev.h: Utilizată pentru comunicația cu MPU6050.
 - MPU6050.h: Biblioteca principală pentru MPU6050.
 - SoftwareSerial.h: Utilizată pentru comunicarea serială prin Bluetooth.
-- 
+
 Citirea și maparea Datelor:
 
 - Datele de la MPU6050 sunt citite în variabilele ax, ay, az, gx, gy, gz.
